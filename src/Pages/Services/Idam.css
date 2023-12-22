@@ -1,0 +1,10 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter&display=swap");
+.Chai{
+display: flex;
+flex-direction: row;
+align-items: center;
+border-radius: 10px;
+
+}
+
+

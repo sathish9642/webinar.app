@@ -1,0 +1,389 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter&display=swap");
+
+.idam2{
+    text-align: center;
+    font-family: Inter;
+    width: 75%;
+    position: relative;
+    padding-left: 20%;
+    font-size: 30px;
+
+    height: 40vh;
+    padding-top: 10%;
+    font-weight: 2px;
+    
+ 
+    
+}
+.why{
+    font-family: Inter;
+    text-align: center;
+}
+.tabwrapper{
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 4px 10px;
+
+    
+
+
+}
+
+
+
+
+
+
+
+
+
+.idam{
+
+font-family: Inter;
+margin-top: 10px;
+font-size: 17px;
+width: 80vh;
+text-align: left;
+
+
+}
+.img{
+
+    height: 200%;
+    width: 90%;
+
+}
+.hei{
+ border-radius: 5px 5px 100px;;
+}
+.sam2{
+    display: flex;
+    background-color:  rgb(3, 3, 3);
+    border-radius: 10px;
+    height: 25vh;
+    width: 50%;
+    margin: 10px;
+
+    
+
+
+
+    
+
+    
+}
+.nag4{
+    height:30vh;
+    width: 25%;
+    border-radius: 7px;
+    justify-content: center;
+    align-items: center;
+       text-align: left;
+       flex-wrap: wrap;
+       
+}
+.nag5{
+    height:60vh;
+    width: 55%;
+    border-radius: 7px;
+    justify-content: left;
+    align-items: center;
+       text-align: left;
+       
+    
+}
+.ele{
+    text-align: center;
+    font-family: Inter;
+}
+.our{
+    font-family: Inter;
+}
+.por{
+    font-family: Inter;
+    width: 50%;
+    text-align: left;
+    margin-top: 10px;
+
+
+    
+}
+
+
+
+
+
+
+
+.container5{
+    height:100vh;
+ width: 80%;
+}
+.aa1{
+    display: flex;
+    height: 50vh;
+    width: 90%;
+    gap: 5%;
+    padding-left: 20%;
+}
+
+.pp1{
+    height:30vh;
+    width: 30%;
+    box-shadow: rgba(0, 0, 0, 0.1) 0px 4px 6px -1px, rgba(0, 0, 0, 0.06) 0px 2px 4px -1px;
+    border-radius: 10px;
+    justify-content: center;
+    align-items: center;
+       text-align:left;
+
+}
+
+
+.pp2{
+    height:30vh;
+    width: 30%;
+    box-shadow: rgba(0, 0, 0, 0.1) 0px 4px 6px -1px, rgba(0, 0, 0, 0.06) 0px 2px 4px -1px;
+    border-radius: 7px;
+    justify-content: center;
+    align-items: center;
+       text-align: left;
+}
+       
+
+.pp3{
+    height:30vh;
+    width: 30%;
+    box-shadow: rgba(0, 0, 0, 0.1) 0px 4px 6px -1px, rgba(0, 0, 0, 0.06) 0px 2px 4px -1px;
+    border-radius: 7px;
+    justify-content: center;
+    align-items: center;
+       text-align: left;
+
+}
+.aa2{
+    display: flex;
+    height: 50vh;
+    width: 90%;
+    gap: 5%;
+    padding-left: 20%;
+}
+.pp4{
+    height:30vh;
+    width: 30%;
+    box-shadow: rgba(0, 0, 0, 0.1) 0px 4px 6px -1px, rgba(0, 0, 0, 0.06) 0px 2px 4px -1px;
+    border-radius: 7px;
+    justify-content: center;
+    align-items: center;
+       text-align: left;
+
+
+    }
+   
+.pp5{
+    height:30vh;
+    width: 30%;
+    box-shadow: rgba(0, 0, 0, 0.1) 0px 4px 6px -1px, rgba(0, 0, 0, 0.06) 0px 2px 4px -1px;
+    border-radius: 7px;
+    justify-content: center;
+    align-items: center;
+       margin: left;
+       text-align: left;
+}
+
+.pp6{
+    height:30vh;
+    width: 30%;
+    box-shadow: rgba(0, 0, 0, 0.1) 0px 4px 6px -1px, rgba(0, 0, 0, 0.06) 0px 2px 4px -1px;
+    border-radius: 7px;
+    justify-content: center;
+    align-items: center;
+       margin: left;
+       text-align: left;
+}
+
+.container6{
+    
+    border-radius: 7px;
+    display: flex;
+    justify-content: center;
+       margin: left;
+       text-align: center;
+       gap: 5%;
+       padding-top: 5%;
+       
+}
+
+.sam4{
+height: 90px;
+    display: flex;
+    position: relative;
+    width: 40%;
+    background-color: white;
+    border-radius: 7px;
+    text-align: left;
+
+
+    
+    
+
+
+}
+.ss{
+    height: 300%;
+    width: 20%;
+}
+.pro{
+    color: rgb(26, 83, 221);
+    font-family: Inter;
+}
+.cyb{
+    font-family: Inter;
+    color: rgb(84, 180, 38);
+}
+.rec{
+    font-family: Inter;
+    color: white;
+}
+.Chai{
+display: flex;
+flex-direction: row;
+width: 70%;
+padding-left: 17%;
+
+}
+.Chai2{
+    display: flex;
+    padding-left: 35%;
+    
+
+}
+
+.por{
+    width: 45%;
+}
+
+.van{
+    background-image: url("https://askmeidentity.com/static/media/im.604ea0f6139b0ad26ec7.jpg");
+
+   width: 100%;
+    margin-top: 3%;
+    height: 60vh;
+    color: white;
+    font-size: 20px;
+    font-weight: 700;
+    font-family: Inter;
+    /* opacity:1.7; */
+    line-height: 3px;
+    background-size: cover;
+    /* background-color:rgba(0,0,0,0.7) ; */
+    overflow: hidden;
+/* background-position: center; */
+    background-repeat: no-repeat;
+/* position: relative; */
+    /* justify-content: center; */
+    text-align: center;
+     /* background-blend-mode: darken; */
+
+    animation: scaleImage 30s ease infinite; /* Apply the animation */
+  }
+  
+
+  @keyframes scaleImage {
+    0% {
+      transform: scale(1.2); /* Initial scale */
+    }
+    50% {
+      transform: scale(1); /* Scaled size */
+    }
+    100% {
+      transform: scale(1.2); /* Return to the initial scale */
+    }
+}
+.van1{
+   width: 40%;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    font-family: Inter;
+    font-size: 20px;
+    line-height: 35px;
+    margin-left: 30%;
+
+
+
+
+  }
+  .ani{
+    width: 100%;
+
+  }
+  .vaan{
+    width: 100%;
+    height: 60vh;
+    background-color: rgba(0,0,0,0.7) ;
+    opacity: 0.8;
+
+  }
+
+
+.foot{
+
+height: 380px;
+width: 80%;
+    background-image: url("../Images/foot.png");
+    background-size: 100%;
+    background-repeat: no-repeat;
+    margin: 10%;
+    
+    
+}
+.button{
+background: transparent;
+border: none;
+font-size: 20px;
+margin-top: 5%;
+
+}
+.talk{
+    font-family: Inter;
+    color:white;
+    margin-bottom: 15%;
+    width: 80vh;
+    text-align: center;
+    position: absolute;
+}
+.talk1{
+    font-family: Inter;
+    color: rgb(211, 191, 191);
+    text-align: left;
+    left: 18%;
+    width: 90vh;
+    position: absolute;
+    margin-top: 25vh;
+    font-size: 25px;
+    
+    
+
+}
+        @media only screen and (max-width: 800px) {
+
+.idam2{
+    width: 100%;
+    padding-left: 0;
+    font-size: 20px;
+
+}
+.nav{
+    display: none;
+}
+
+
+        }
+
+
+
+
+
+
